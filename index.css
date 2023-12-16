@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background: linear-gradient(to right,aqua,lightblue);
+}
+#b1{
+    position: fixed;
+    top: 70%;
+    left: 45%;
+    padding: 10px;
+    border-radius: 25%;
+    background: transparent;
+}
